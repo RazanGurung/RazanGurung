@@ -75,8 +75,8 @@
 
 ## 📫 Let’s Connect
 - 📧 Email: [razangurung2147@gmail.com]  
-- 🔗 LinkedIn: 
-- 🌐 Portfolio:
+- 🔗 LinkedIn: https://www.linkedin.com/in/rajan-gurung-/
+- 🌐 Portfolio:https://rajangurung.netlify.app/?fbclid=IwY2xjawOCModleHRuA2FlbQIxMABicmlkETFWam9aOXBNc0NSbEF4WXhIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmGSFB5btdgmdCXTWhmzRlG4q0WnIWlDIAIUQTM34cqf-RQkps9pBANtpOEQ_aem_bSmLmMZdc7e1eUWiF5I-5A
 
 ---
 
